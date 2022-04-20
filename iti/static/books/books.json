@@ -1,0 +1,33 @@
+[
+  {
+    "id" : "1",
+    "author": "Chinua Achebe",
+    "image": "ThingsFallApart.jpg",
+    "title": "Things Fall Apart"
+  },
+  {
+    "id" : "2",
+    "author": "Hans Christian Andersen",
+    "image": "Hans_Christian_Andersen.jpg",
+    "title": "Fairy tales"
+  },
+  {
+     "id" : "3",
+    "author": "Dante Alighieri",
+    "image": "Dante_Domenico_di_Michelino_Duomo_Florence.jpg",
+    "title": "The Divine Comedy"
+  },
+  {
+    "id" : "4",
+    "author": "Unknown",
+    "image": "British_Museum_Flood_Tablet.jpg",
+    "title": "The Epic Of Gilgamesh"
+  },
+  {
+    "id" : "5",
+    "author": "Unknown",
+    "image": "Aleppo_Codex_Joshua_1_1.jpg",
+    "title": "The Book Of Job"
+  }
+
+ ]

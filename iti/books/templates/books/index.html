@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static '/css/main.css' %}">
+    <title>Welcome</title>
+</head>
+<body>
+
+
+    <h1>Books list</h1>
+<ul>
+
+    {% for book in books %}
+    <li><a href={{book.id}}>{{book.title}}</a></li>
+    {% endfor %}
+
+</ul>
+
+    <!-- <img src="{% static 'books/sayed.jpg' %}" alt="My image" /> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
